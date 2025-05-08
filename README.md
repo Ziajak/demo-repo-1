@@ -1,4 +1,4 @@
-# demo-repo-1
+# DEMO-REPO-1
 Create a repo on github and use the code locally
 
 
