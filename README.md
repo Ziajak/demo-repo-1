@@ -3,3 +3,4 @@ Create a repo on github and use the code locally
 
 
 This is a local change from VSC!
+Dodanie kodu!
