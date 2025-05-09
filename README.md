@@ -1,2 +1,5 @@
-# demo-repo-1
+# DEMO-REPO-1
 Create a repo on github and use the code locally
+
+
+This is a local change from VSC!
